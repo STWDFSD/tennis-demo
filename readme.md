@@ -11,8 +11,8 @@ This project is a static demo of a tennis tournament website using Sitemesh and 
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd tennis-tournament-demo
+    git clone [<repository-url>](https://github.com/STWDFSD/tennis-demo.git)
+    cd tennis-demo
     ```
 
 2. Build the project using Maven:
