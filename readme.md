@@ -11,7 +11,7 @@ This project is a static demo of a tennis tournament website using Sitemesh and 
 
 1. Clone the repository:
     ```bash
-    git clone [<repository-url>](https://github.com/STWDFSD/tennis-demo.git)
+    git clone https://github.com/STWDFSD/tennis-demo.git
     cd tennis-demo
     ```
 
