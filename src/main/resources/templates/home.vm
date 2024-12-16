@@ -1,0 +1,16 @@
+<h2>Upcoming Tennis Tournaments</h2>
+<ul>
+    <li>
+        <strong>Tournament Name:</strong> [Tournament Name Placeholder]<br />
+        <strong>Location:</strong> [Location Placeholder]<br />
+        <strong>Dates:</strong> [Dates Placeholder]<br />
+        <strong>Prize Pool:</strong> [Prize Pool Placeholder]
+    </li>
+    <li>
+        <strong>Tournament Name:</strong> [Tournament Name Placeholder]<br />
+        <strong>Location:</strong> [Location Placeholder]<br />
+        <strong>Dates:</strong> [Dates Placeholder]<br />
+        <strong>Prize Pool:</strong> [Prize Pool Placeholder]
+    </li>
+    <!-- Add more tournaments as needed -->
+</ul>

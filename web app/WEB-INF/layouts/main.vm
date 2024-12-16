@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Tennis Tournaments</title>
+</head>
+<body>
+<h1>Tennis Tournament Dashboard</h1>
+<div>
+    $body
+</div>
+</body>
+</html>
